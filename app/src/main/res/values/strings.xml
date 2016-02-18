@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentsDemo</string>
+
+    <string name="pancakeStr">Pancake!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pancake">PancakeActivity</string>
+    <string name="baconStr">Bacon!</string>
+    <string name="pancakeBTNSTR">Go To Pancake</string>
+</resources>
